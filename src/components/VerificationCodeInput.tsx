@@ -65,7 +65,12 @@ export default function VerificationCodeInput({
         return
       }
 
-      if (value === '' && index > 0 && index < length - 1) {
+      if (emptyStringIndex < 0) {
+        inputRefs.current[length - 1]?.focus()
+        return
+      }
+
+      if (value === '' && index > 0) {
         inputRefs.current[index - 1]?.focus()
       } else if (value !== '' && index < length - 1) {
         inputRefs.current[index + 1]?.focus()

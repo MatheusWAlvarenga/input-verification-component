@@ -4,7 +4,6 @@
 <img width="300" alt="Code Input Component" src="https://github.com/MatheusWAlvarenga/input-verification-component/assets/94935750/2940d719-8923-4109-a480-5a80cb43204b">
 </div>
 
-
 ## Project Overview
 
 Welcome to the React Confirmation Code Input Component project! This open-source component is designed to facilitate the input and verification of confirmation codes in React applications. It leverages TypeScript for strong typing and Tailwind CSS for a sleek and customizable user interface.
@@ -21,11 +20,14 @@ Welcome to the React Confirmation Code Input Component project! This open-source
 
 - Dark Mode: Seamlessly switch between light and dark modes for enhanced user experience in different environments.
 
+- Automatic Focus and Backspace Navigation: Fields automatically focus on the next input upon entering a digit and backspace navigates to the previous input when the field is empty.
+
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/MatheusWAlvarenga/input-verification-component.git`
 2. Navigate to the project directory: `cd input-verification-component`
 3. Install the dependencies: `npm install`
+4. Run: `npm run start`
 
 ## Contributing
 
