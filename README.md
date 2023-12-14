@@ -1,8 +1,9 @@
 <h1 align="center">React Confirmation Code Input Component</h1>
 
  <div align="center">
-<img width="700" alt="Coffee Delivery" src="https://github.com/MatheusWAlvarenga/coffee-delivery/assets/94935750/ffd73e40-0efb-4614-bf53-5a23768a4f3e">
+<img width="300" alt="Code Input Component" src="https://github.com/MatheusWAlvarenga/input-verification-component/assets/94935750/2940d719-8923-4109-a480-5a80cb43204b">
 </div>
+
 
 ## Project Overview
 
