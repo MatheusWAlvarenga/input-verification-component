@@ -1,7 +1,7 @@
 <h1 align="center">React Confirmation Code Input Component</h1>
 
  <div align="center">
-<img width="300" alt="Code Input Component" src="https://github.com/MatheusWAlvarenga/input-verification-component/assets/94935750/2940d719-8923-4109-a480-5a80cb43204b">
+<img width="400" alt="Code Input Component" src="https://github.com/MatheusWAlvarenga/input-verification-component/assets/94935750/2940d719-8923-4109-a480-5a80cb43204b">
 </div>
 
 ## Project Overview
