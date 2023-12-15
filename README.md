@@ -35,7 +35,7 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## Contact
 
-For any inquiries or feedback, please contact me at matheuswalvarenga@gmail.com
+For any inquiries or feedback, please contact me at **E-mail:** [matheuswalvarenga@gmail.com](mailto:matheuswalvarenga@gmail.com)
 
 ##
 
